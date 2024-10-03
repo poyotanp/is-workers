@@ -1,0 +1,22 @@
+{
+  "name": "is-workers",
+  "version": "1.0.0",
+  "description": "Check if the program is running on Cloudflare Workers",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/poyotanp/is-workers.git"
+  },
+  "keywords": [
+    "cloudflare",
+    "isworkers",
+    "workers"
+  ],
+  "author": {
+    "name": "PoyotanP",
+    "email": "poyotanp@poyo.moe",
+    "url": "https://github.com/poyotanp"
+  },
+  "license": "MIT",
+  "private": true
+}
